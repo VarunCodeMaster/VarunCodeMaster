@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Varun G
 
 🎓 BCA Graduate — Loyola College, Chennai (2025)  
-💼 Executive Trainee (Software Development) @ Rane Data Center, Rane Holding Limited  
+💼 Senior Executive (Software Development) @ Rane Data Center, Rane Holding Limited  
 🌍 Based in Chennai | Open to Backend & Full Stack roles  
 
 ---
